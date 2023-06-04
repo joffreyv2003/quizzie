@@ -8,7 +8,7 @@ Een website waar je al jouw skills kunt testen voor 3 verschillende onderwerpen.
 
 <h3>Waar is deze applicatie voor?</h3>
 
-Ik heb deze website gemaakt voor een project op school. De goal was om een website te maken waar je je skills kunt testen voor 3 verschillende onderwerpen. De website is volledig responsive en heeft een clean UI design.
+Ik heb deze website met 2 andere mensen gemaakt voor een project op school. De goal was om een website te maken waar je je skills kunt testen voor 3 verschillende onderwerpen. De website is volledig responsive en heeft een clean UI design.
 
 ## ⭐ Hoe gebruik ik deze website?
 
